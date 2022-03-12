@@ -1,0 +1,15 @@
+D:\Desktop\project\acmp.ru\acmp3\bin\Debug\net7.0\acmp3.exe
+D:\Desktop\project\acmp.ru\acmp3\bin\Debug\net7.0\acmp3.deps.json
+D:\Desktop\project\acmp.ru\acmp3\bin\Debug\net7.0\acmp3.runtimeconfig.json
+D:\Desktop\project\acmp.ru\acmp3\bin\Debug\net7.0\acmp3.dll
+D:\Desktop\project\acmp.ru\acmp3\bin\Debug\net7.0\acmp3.pdb
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.csproj.AssemblyReference.cache
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.AssemblyInfoInputs.cache
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.AssemblyInfo.cs
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.csproj.CoreCompileInputs.cache
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.dll
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\refint\acmp3.dll
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.pdb
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\acmp3.genruntimeconfig.cache
+D:\Desktop\project\acmp.ru\acmp3\obj\Debug\net7.0\ref\acmp3.dll
